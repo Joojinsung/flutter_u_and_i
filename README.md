@@ -1,1 +1,1 @@
-![middle_image.png](asset%2Fimg%2Fmiddle_image.png)
+![middle_image.png](asset/img/middle_image.png)
