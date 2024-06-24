@@ -1,1 +1,1 @@
-![이미지](asset/img/middle_image.png)
+![이미지파일](asset/img/image.png)
